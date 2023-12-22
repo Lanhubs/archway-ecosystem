@@ -1,0 +1,19 @@
+{
+  "name": "NodesGuru",
+  "categories": ["Explorers"],
+  "main_category": "Explorers",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://nodes.guru/archway",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Stake your tokens with Nodes.Guru now and get rewards! We are staking providers, tech investors and the largest testnet portal",
+  "logo": "NodesGuru.png",
+  "cover": "NodesGuru-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/NodesGuru",
+  "discord": "",
+  "telegram": ""
+}

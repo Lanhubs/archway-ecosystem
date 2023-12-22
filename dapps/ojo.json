@@ -1,0 +1,19 @@
+{
+  "name": "Ojo",
+  "categories": ["Infrastructure"],
+  "main_category": "Infrastructure",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Cross-chain oracle with built-in market manipulation prevention",
+  "logo": "Ojo.png",
+  "cover": "ojo-cover.png",
+  "github": "https://github.com/ojo-network",
+  "twitter": "https://twitter.com/ojo_network",
+  "discord": "",
+  "telegram": "https://t.me/OjoNetwork"
+}

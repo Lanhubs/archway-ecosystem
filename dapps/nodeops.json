@@ -1,0 +1,19 @@
+{
+  "name": "NodeOps",
+  "categories": ["Infrastructure", "Explorers", "Tooling"],
+  "main_category": "Infrastructure",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://archway.nodeops.xyz/",
+  "email": "hello@nodeops.xyz",
+  "phone": "",
+  "location": "",
+  "summary": "AI Enabled Infrastructure for Node Operators and Developers",
+  "logo": "NodeOps.jpg",
+  "cover": "NodeOps_Cover.jpg",
+  "github": "https://github.com/NodeOps-app",
+  "twitter": "https://twitter.com/NodeOps_App",
+  "discord": "",
+  "telegram": ""
+}

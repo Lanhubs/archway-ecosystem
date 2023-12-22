@@ -1,0 +1,19 @@
+{
+  "name": "Sudo Stake",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://sudostake.vercel.app/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "On-chain property rights for everyone",
+  "logo": "sudostakev2.png",
+  "cover": "",
+  "github": "https://github.com/sudostake",
+  "twitter": "https://twitter.com/sudostake",
+  "discord": "",
+  "telegram": ""
+}

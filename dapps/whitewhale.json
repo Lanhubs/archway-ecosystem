@@ -1,0 +1,19 @@
+{
+  "name": "White Whale",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Interchain Liquidity",
+  "logo": "WhiteWhale.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/WhiteWhaleDefi",
+  "discord": "",
+  "telegram": ""
+}

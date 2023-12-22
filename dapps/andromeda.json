@@ -1,0 +1,19 @@
+{
+  "name": "Andromeda",
+  "categories": ["Infrastructure"],
+  "main_category": "Infrastructure",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.andromedaprotocol.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Andromeda is an all on-chain and multi-chain suite of products, tools, and utilities enabled by a decentralized Operating System we call aOS, or Andromeda Operating System. aOS is where Web3 starts",
+  "logo": "Andromeda.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/AndromedaProt",
+  "discord": "",
+  "telegram": ""
+}

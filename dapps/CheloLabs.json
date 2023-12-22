@@ -1,0 +1,19 @@
+{
+"name": "Chelo Labs",
+"categories": ["DeFi", "Governance & DAO Tooling"],
+"main_category": "Governance & DAO Tooling",
+"is_live": false,
+"is_featured": false,
+"is_trending": false,
+"url": "https://chelo.fi/",
+"email": "hello@chelo.fi",
+"phone": "",
+"location": "",
+"summary": "It’s a modular stack for DAOs, designed to seamlessly integrate with any existing framework without the need for protocol or governance modifications",
+"logo": "chelolabs.png",
+"cover": "",
+"github": "https://github.com/chelofinance/",
+"twitter": "https://twitter.com/Chelo_labs",
+"discord": "https://discord.gg/m4JrWGKS",
+"telegram": "https://t.me/+1y-xkQS8XdlkMDJk"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Astrovault",
+  "categories": ["Defi"],
+  "main_category": "Defi",
+  "is_live": true,
+  "is_featured": true,
+  "is_trending": false,
+  "url": "https://astrovault.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "The first crosschain value capture DEX, featuring external revenue, rewards for traders, an autogenic DAO treasury, 1:1 stable swaps, & more!",
+  "logo": "Astrovault.png",
+  "cover": "Astrovault-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/axvdex",
+  "discord": "https://astrovault.io/discord",
+  "telegram": "https://astrovault.io/telegram"
+}

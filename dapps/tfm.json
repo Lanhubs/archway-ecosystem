@@ -1,0 +1,19 @@
+{
+  "name": "TFM",
+  "categories": ["DeFi", "NFTs", "Dashboard & Analytics"],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://tfm.com/ibc?chainFrom=cosmoshub-4&chainTo=archway-1&token0=uatom&token1=aarch",
+  "email": "it@tfm.com",
+  "phone": "",
+  "location": "",
+  "summary": "The Pro-Trading Terminal of Cosmos. Proprietary IBC & DEX & NFT Aggregator",
+  "logo": "TFM.png",
+  "cover": "TFM-cover.png",
+  "github": "https://github.com/tfm-com",
+  "twitter": "https://twitter.com/tfm_com",
+  "discord": "https://discord.gg/538PrcubY9",
+  "telegram": "https://t.me/tfmofficialchat"
+}

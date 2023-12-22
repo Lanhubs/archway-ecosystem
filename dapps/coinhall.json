@@ -1,0 +1,19 @@
+{
+  "name": "Coinhall",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://coinhall.org/?chains=archway&verified=true&reliable=true&tab=all&timeframe=24h&sort=volume&dir=desc",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "The Interchain Trading and Rewards Hub",
+  "logo": "Coinhall.png",
+  "cover": "Coinhall-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/coinhall_org",
+  "discord": "",
+  "telegram": "https://t.me/coinhall_org"
+}

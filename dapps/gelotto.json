@@ -1,0 +1,19 @@
+{
+  "name": "Gelotto",
+  "categories": ["DeFi", "Games", "NFTs"],
+  "main_category": "Games",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": true,
+  "url": "https://gelotto.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "The first IBC multi venture business. Games. NFTs. Validators. More.",
+  "logo": "Gelotto.png",
+  "cover": "Gelotto-cover.png",
+  "github": "https://github.com/Gelotto",
+  "twitter": "https://twitter.com/Gelotto2",
+  "discord": "",
+  "telegram": ""
+}

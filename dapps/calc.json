@@ -1,0 +1,19 @@
+{
+  "name": "CALC Finance",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://calculated.fi/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Introducing Calculated Finance - A powerful decentralized suite of tools that give you access to a range of recurring swap strategies",
+  "logo": "CALC.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/CALC_finance",
+  "discord": "",
+  "telegram": "https://t.me/calcprotocol"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "Axelar",
+  "categories": ["Bridges"],
+  "main_category": "Bridges",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://axelar.network/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click",
+  "logo": "Axelar.png",
+  "cover": "Axelar-cover.png",
+  "github": "https://github.com/axelarnetwork",
+  "twitter": "https://twitter.com/axelarcore",
+  "discord": "https://discord.com/invite/aRZ3Ra6f7D",
+  "telegram": "https://t.me/axelarcommunity"
+}

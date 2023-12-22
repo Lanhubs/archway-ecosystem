@@ -1,0 +1,19 @@
+{
+  "name": "Mintscan",
+  "categories": ["Dashboards & Analytics", "Explorers"],
+  "main_category": "Explorers",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.mintscan.io/archway",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "The Interchain Portal by Cosmostation. Supercharged Onchain Analytics",
+  "logo": "Mintscan.png",
+  "cover": "Mintscan-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/mintscanio",
+  "discord": "",
+  "telegram": ""
+}

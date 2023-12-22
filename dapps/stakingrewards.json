@@ -1,0 +1,19 @@
+{
+  "name": "StakingRewards",
+  "categories": ["DeFi"],
+  "main_category": "DeFi",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.stakingrewards.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "The Staking Explorer",
+  "logo": "stakingrewards.png",
+  "cover": "",
+  "github": "",
+  "twitter": "",
+  "discord": "https://discord.gg/EqDF9GF",
+  "telegram": "https://t.me/stakingrewards"
+}

@@ -1,0 +1,19 @@
+{
+  "name": "EvolvNFT",
+  "categories": ["NFTs"],
+  "main_category": "NFTs",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://evolvnft.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Decentralized hub that allows you to easily create, manage and evolve your decentralized assets",
+  "logo": "EvolvNFT.png",
+  "cover": "EvolvNFT-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/evolv_nft",
+  "discord": "https://discord.gg/jMHWk6dT",
+  "telegram": ""
+}

@@ -1,0 +1,19 @@
+{
+  "name": "SmartStake",
+  "categories": ["Dashboards & Analytics"],
+  "main_category": "Dashboards & Analytics",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://smartstake.io/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Transparent, professional, and feature rich Validator. Your analytics hub for assessing Validators, Network, Relayers, & Decentralization metrics",
+  "logo": "SmartStake.png",
+  "cover": "SmartStake-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/SmartStake",
+  "discord": "",
+  "telegram": "https://t.me/SmartStake"
+}

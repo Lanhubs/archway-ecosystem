@@ -1,0 +1,19 @@
+{
+  "name": "Synapse",
+  "categories": ["Bridges"],
+  "main_category": "Bridges",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.synapseprotocol.com/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Synapse is the most widely used, extensible, and secure cross-chain communications network",
+  "logo": "Synapse.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/SynapseProtocol",
+  "discord": "https://discord.com/invite/4rMzuEnKqe",
+  "telegram": ""
+}

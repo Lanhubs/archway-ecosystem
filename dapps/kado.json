@@ -1,0 +1,19 @@
+{
+  "name": "Kado",
+  "categories": ["Infrastructure", "Bridges"],
+  "main_category": "Bridges",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.kado.money/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Kado is a fiat to crypto on/off ramp platform for easy onboarding to DeFi and direct to self custody",
+  "logo": "Kado.png",
+  "cover": "",
+  "github": "",
+  "twitter": "https://twitter.com/kado_money",
+  "discord": "",
+  "telegram": "https://t.me/joinchat/DBTEybbbFugwZjgx"
+}

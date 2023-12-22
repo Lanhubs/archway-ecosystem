@@ -1,0 +1,19 @@
+{
+  "name": "Catalyst",
+  "categories": ["DeFi", "Infrastructure", "Bridges"],
+  "main_category": "DeFi",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://catalyst.exchange/",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Catalyst is permissionless liquidity, purpose-built to connect all chains",
+  "logo": "Catalyst.png",
+  "cover": "",
+  "github": "https://github.com/catalystdao",
+  "twitter": "https://twitter.com/CatalystAMM",
+  "discord": "",
+  "telegram": "https://t.me/CatalystChat"
+}

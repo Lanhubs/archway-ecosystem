@@ -1,0 +1,19 @@
+{
+  "name": "Interchain Info",
+  "categories": ["Dashboards & Analytics"],
+  "main_category": "Dashboards & Analytics",
+  "is_live": true,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://interchaininfo.zone/indexes/archway",
+  "email": "",
+  "phone": "",
+  "location": "",
+  "summary": "Interchain Info (ICI) is designed to be the principal point of access to the interconnected Web3 universe, facilitating users and developers alike in discovering, understanding, and engaging with various Web3 tools and projects",
+  "logo": "interchaininfo.png",
+  "cover": "interchaininfo-cover.png",
+  "github": "",
+  "twitter": "https://twitter.com/InterchainInfo",
+  "discord": "",
+  "telegram": ""
+}

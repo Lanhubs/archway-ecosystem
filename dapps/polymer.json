@@ -1,0 +1,19 @@
+{
+  "name": "Polymer",
+  "categories": ["Infrastructure"],
+  "main_category": "Infrastructure",
+  "is_live": false,
+  "is_featured": false,
+  "is_trending": false,
+  "url": "https://www.polymerlabs.org/",
+  "email": "build@polymerlabs.org",
+  "phone": "",
+  "location": "",
+  "summary": "Polymer is Ethereum’s Interoperability Hub, connecting Ethereum Layer 2’s using the Inter-Blockchain Communication Protocol.",
+  "logo": "Polymer.png",
+  "cover": "",
+  "github": "https://github.com/polymerdao",
+  "twitter": "https://twitter.com/polymerdao",
+  "discord": "https://discord.gg/hvMQp4qcM6",
+  "telegram": ""
+}
